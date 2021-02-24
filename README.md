@@ -1,0 +1,1 @@
+This is Anamaria's first git project
